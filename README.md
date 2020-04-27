@@ -6,9 +6,9 @@ It uses [the MNIST database](http://yann.lecun.com/exdb/mnist/) for training and
 
 ## Screenshots
 
-![Screenshot1](/Screenshots/view.jpg?raw=true "View")
-![Screenshot2](/Screenshots/testing.jpg?raw=true "Testing")
-![Screenshot3](/Screenshots/running.jpg?raw=true "Running")
+![Screenshot1](/Screenshots/view.png?raw=true "View")
+![Screenshot2](/Screenshots/testing.png?raw=true "Testing")
+![Screenshot3](/Screenshots/running.png?raw=true "Running")
 
 ## Usage
 
